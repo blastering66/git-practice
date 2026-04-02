@@ -4,6 +4,8 @@
     "name": "iPhone 12",
     "price": 999,
     "description": "The latest iPhone with A14 Bionic chip and 5G support.",
-    "validity": "2024-12-31"
+    "validity": "2024-12-31",
+    "memory": "128GB",
+    "color": "Black"
   }
 ]
