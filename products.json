@@ -6,9 +6,10 @@
     "description": "The latest iPhone with A14 Bionic chip and 5G support.",
     "validity": "2024-12-31",
     "memory": "128GB",
-    "color": "Black"
+    "color": "Black",
     "image": "https://example.com/images/iphone12.jpg",
     "category": "Smartphones",
-    "basePrice": 800
+    "basePrice": 800,
+    "discount": 10
   }
 ]
