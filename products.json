@@ -5,6 +5,7 @@
     "price": 999,
     "description": "The latest iPhone with A14 Bionic chip and 5G support.",
     "image": "https://example.com/images/iphone12.jpg",
-    "category": "Smartphones"
+    "category": "Smartphones",
+    "basePrice": 800
   }
 ]
