@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILYAZfvc0fNCYvVkUCXZAzMfifbfqjQQwTS8VoUao86U ridho.aryasa@smartfren.com
